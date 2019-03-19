@@ -1,0 +1,1 @@
+<?php remove_filter( $tag, $function_to_remove, $priority ); ?>
